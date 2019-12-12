@@ -1,6 +1,7 @@
-title: BY Blog
+theme: jekyll-theme-hacker
+title: Competitive Programming Blog
 SEOTitle: BY Blog
-header-img: images/2.jpg
+header-img: ./images/2.jpg
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
